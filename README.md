@@ -1,6 +1,6 @@
 # cloudstatus
 
-A new Flutter project.
+A Flutter based Weather app
 
 ## Getting Started
 
