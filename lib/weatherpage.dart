@@ -50,7 +50,7 @@ class _WeatherPageState extends State<WeatherPage> {
                 children: [
                   Container(
                     alignment: Alignment.center,
-                    color: Colors.green,
+                    color: Colors.redAccent[700],
                     height: 310,
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
